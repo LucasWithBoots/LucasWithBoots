@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, sou o<a href="https://luwucaz.github.io/" target="blank">
-Lucas</a></h1>
+<h1 align="center">Olá, sou o<a href="https://luwucaz.github.io/" target="blank"> Lucas</a></h1> 👋
 <h3 align="center">Designer cursando uma graduação em Ciências da Computação</h3>
 
 <br>
