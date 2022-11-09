@@ -11,5 +11,3 @@
 
 - 📄 Certificado de Inglês, Designer, After Effects e Excel
 <br/>
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carrijo-ferrari-4aa93b20b/)
