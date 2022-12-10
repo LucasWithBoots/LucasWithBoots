@@ -3,7 +3,7 @@
 
 <br>
 
-- 📄 Você consegue acessar meu portifólio por <a href="https://luwucaz.github.io/portifolio/" target="blank">**aqui**</a>
+- 📄 Você consegue acessar meu portifólio por <a href="https://luwucaz.github.io/portifolio/" target="_blank">**aqui**</a>
 
 - 🔭 Estudante de front-end pela Origamid
 
