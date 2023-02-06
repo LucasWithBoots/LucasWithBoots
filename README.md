@@ -3,8 +3,6 @@
 
 <br>
 
-- 📄 Você consegue acessar meu portifólio por <a href="https://luwucaz.github.io/portifolio/index.html" target="_blank">**aqui**</a>
-
 - 🔭 Estudante de front-end pela Origamid
 
 - 🌱 Cursando uma graduação na Universidade de Vila Velha
