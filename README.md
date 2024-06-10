@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,java,kotlin,php,docker,bootstrap,jquery,js,ts,sass,git,latex,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=latex,kotlin,php,docker,ts,js,sass,figma)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasWithBoots&show_icons=true&locale=en&layout=compact" alt="LucasWithBoots" /></p>
 
