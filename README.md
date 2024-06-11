@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Ferrari</h1>
 <h3 align="center">A Back/Frontend developer and UX/UI Designer</h3>
 
-- 🌱 I’m currently learning **Kotlin and Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Kotlin and UX/UI projects**
 
