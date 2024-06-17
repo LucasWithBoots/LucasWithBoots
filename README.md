@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Lucas Ferrari</h1>
-<h3 align="center">A Back/Frontend developer and UX/UI Designer</h3>
+<h1 align="center">Olá 👋, sou Lucas Ferrari</h1>
+<h3 align="center">Desenvolvedor back/frontend e designer UX/UI</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 Atualmente estou aprendendo **Kotlin**
 
-- 👯 I’m looking to collaborate on **Kotlin and UX/UI projects**
+- 👯 Pretendo colaborar em **projetos Kotlin e UX/UI**
 
-- ❤️ I also love learning more about **LaTeX, Sass, Linux, UX Writing and the Francophone language**
+- ❤️ Também adoro aprender mais sobre **LaTeX, Sass, Linux, UX Writing e a francês**
 
-- 📫 How to reach me **lucas.carrijoferrari@gmail.com**
+- 📫 Entre em contato comigo em **lucas.carrijoferrari@gmail.com**.
 
-- 👨‍💻 You can also reach me at [**https://www.linkedin.com/in/lucascferrari/**](https://www.linkedin.com/in/lucascferrari/)
+- 👨‍💻 Você também conhecer mais sobre mim em [**https://www.linkedin.com/in/lucascferrari/**](https://www.linkedin.com/in/lucascferrari/)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=latex,kotlin,php,docker,ts,js,sass,figma)](https://skillicons.dev)
+[![Minhas habilidades](https://skillicons.dev/icons?i=latex,kotlin,php,docker,ts,js,sass,figma)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasWithBoots&show_icons=true&locale=en&layout=compact" alt="LucasWithBoots" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasWithBoots&show_icons=true&locale=en&layout=compact" alt="LucasWithBoots" /> </p>
