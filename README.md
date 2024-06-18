@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, sou Lucas Ferrari</h1>
-<h3 align="center">Desenvolvedor back/frontend e designer UX/UI</h3>
+<h1>Olá 👋, sou Lucas Ferrari</h1>
+<h3>Desenvolvedor back/frontend e designer UX/UI</h3>
 
 - 🌱 Atualmente estou aprendendo **Kotlin**
 
