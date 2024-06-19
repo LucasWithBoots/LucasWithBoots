@@ -1,11 +1,6 @@
-<h1>Olá 👋, sou Lucas Ferrari</h1>
 <h3>Desenvolvedor back/frontend e designer UX/UI</h3>
 
 - 🌱 Atualmente estou aprendendo **Kotlin**
-
-- 👯 Pretendo colaborar em **projetos Kotlin e UX/UI**
-
-- ❤️ Também adoro aprender mais sobre **LaTeX, Sass, Linux, UX Writing e a francês**
 
 - 📫 Entre em contato comigo em **lucas.carrijoferrari@gmail.com**.
 
