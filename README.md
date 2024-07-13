@@ -4,6 +4,3 @@
 
 <br clear="left"/>
 
-<br/>
-
-<i>A maioria dos meus projetos está sob a <b>licença MIT</b>. Os que não estão geralmente são projetos desenvolvidos durante cursos de programação, e são disponibilizados junto com materiais (como códigos e arquivos de mídia) que não possuem uma licença específica.</i>
