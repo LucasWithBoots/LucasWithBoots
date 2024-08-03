@@ -1,7 +1,7 @@
 [![Minhas habilidades](https://go-skill-icons.vercel.app/api/icons?i=kotlin,ktor,ts,angular,spring,docker,latex,sass,figma,idea)](https://skillicons.dev)
 
 ```kotlin
-val linkedinProfile = object {
+val githubProfile = object {
         val name = "Lucas Carrijo Ferrari"
         val title = "Software Developer"
         val skills = mutableListOf(
