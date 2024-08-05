@@ -3,7 +3,7 @@
 ```kotlin
 val githubProfile = object {
         val name = "Lucas Carrijo Ferrari"
-        val title = "Software&Android Developer"
+        val title = "Software & Android Developer"
         val skills = mutableListOf(
             "Kotlin", "Jetpack Compose", "Spring Boot",
             "Docker", "TS", "JS", "Figma", "Sass"
