@@ -1,4 +1,4 @@
-[![Minhas habilidades](https://go-skill-icons.vercel.app/api/icons?i=kotlin,ktor,ts,angular,spring,docker,latex)](https://skillicons.dev)
+[![Minhas habilidades](https://go-skill-icons.vercel.app/api/icons?i=kotlin,react,angular,ts,spring,latex)](https://skillicons.dev)
 
 ```kotlin
 val githubProfile = object {
