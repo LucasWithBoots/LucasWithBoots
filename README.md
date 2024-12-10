@@ -7,4 +7,4 @@
 <br/>
 
 **📚 Também publico algumas coisas no Medium:**  
-[Visite meu perfil no Medium](https://medium.com/@seu-usuario)
+[Visite meu perfil no Medium](https://medium.com/@lucas.carrijoferrari)
