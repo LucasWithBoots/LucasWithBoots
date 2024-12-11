@@ -6,5 +6,7 @@
 
 <br/>
 
-**📚 Também publico algumas coisas no Medium:**  
+👉 Sai pra lá textão kk. Apaixonado por Kotlin aplicado ao backend e React Native
+
+📚 Também publico algumas coisas no Medium:
 [Visite meu perfil no Medium](https://medium.com/@lucas.carrijoferrari)
