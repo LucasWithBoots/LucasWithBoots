@@ -1,12 +1,27 @@
-[![Minhas habilidades](https://go-skill-icons.vercel.app/api/icons?i=kotlin,react,angular,ts,spring,latex)](https://skillicons.dev)
+# whiteglass-template
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasWithBoots&show_icons=true&locale=en&layout=compact" alt="LucasWithBoots" /> </p>
+[![Deploy Jekyll site to Pages](https://github.com/yous/whiteglass-template/actions/workflows/main.yml/badge.svg?branch=source)](https://github.com/yous/whiteglass-template/actions/workflows/main.yml)
 
-<br clear="left"/>
+Template site for [whiteglass](https://github.com/yous/whiteglass) theme. Click
+"Use this template" button to start.
 
-<br/>
+## Configuration
 
-👉 Sai pra lá textão kk. Apaixonado por Kotlin e React Native. Aprendendo Flutter.
+Change the options defined in _config.yml. Let's say the URL of your source
+repository is `https://github.com/johndoe/some-repo`.
 
-📚 Também publico algumas coisas no Medium:
-[Visite meu perfil no Medium](https://medium.com/@lucas.carrijoferrari)
+``` yaml
+title: My site title
+author: John Doe
+description: This is my site description.
+baseurl: "/some-repo"
+url: "https://johndoe.github.io"
+```
+
+For further details, see [Configuration](https://jekyllrb.com/docs/configuration/)
+section under Jekyll documentation.
+
+## License
+
+whiteglass-template is free and unencumbered software released into the public
+domain. For more information, please refer to <http://unlicense.org/>.
