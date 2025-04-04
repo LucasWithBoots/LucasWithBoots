@@ -6,7 +6,7 @@
 
 <br/>
 
-👉 Sai pra lá textão kk. Apaixonado por Kotlin e React Native. Aprendendo Flutter.
+👉 Faço aplicativo, e é sobre
 
 📚 Também publico algumas coisas no Medium:
 [Visite meu perfil no Medium](https://medium.com/@lucas.carrijoferrari)
