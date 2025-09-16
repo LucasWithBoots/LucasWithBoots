@@ -6,7 +6,7 @@
 
 <br/>
 
-👉 Faço aplicativo, e é sobre
+👉 Faço uns aplicativos em react native
 
 📚 Também publico algumas coisas no Medium:
 [Visite meu perfil no Medium](https://medium.com/@lucas.carrijoferrari)
